@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Poojan;Shah;;;
+FN:Shah Poojan
+ORG:HiddenBrains
+ADR;TYPE=WORK:
+TITLE:AVP Technology
+EMAIL;TYPE=WORK:poojan.shah@hiddenbrains.in
+URL;TYPE=Skype:skype:hb.poojan?chat
+URL;TYPE=WhatsApp:https://wa.me/919998417209
+URL;TYPE=Digital Business Card:
+URL:https://www.hiddenbrains.com/
+URL;TYPE=Website:https://www.hiddenbrains.com/
+URL;TYPE=LinkedIn:https://linkedin.com/in/poojan-shah-a9238592
+URL;TYPE=Instagram:https://instagram.com/poojanshah
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Desc :  Hidden Brains, a full-service software and Mobile App Development team, committed to providing unparalleled customer value. We architect, build and deliver custom-native software solutions that leverage leading technologies and platforms.
+UID:HiddenBrain-vCard
+END:VCARD
